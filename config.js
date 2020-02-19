@@ -37,7 +37,7 @@ var config = { // NOTE: DO NOT LEAVE ANYTHING BLANK
 		enabled: 'true', // This setting controls whether the dashboard is enabled or not.
 		oauthSecret: '5G7t1WUEyclauE7ZRzcnxCaKr5h78tpX', // The client secret from the Discord bot page
 		secure: 'false', // HTTPS: 'true' for true, 'false' for false
-		sessionSecret: '', // Go crazy on the keyboard here, this is used as a session secret
+		sessionSecret: 'rewgjigrejiogiojriooej', // Go crazy on the keyboard here, this is used as a session secret
 		domain: 'localhost:33445', // Domain name (with port if not running behind proxy running on port 80). Example: 'domain': 'dashboard.bot-website.com' OR 'domain': 'localhost:33445'
 		port: '33445', // The port that it should run on
 		invitePerm: '536079575',
